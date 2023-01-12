@@ -1,0 +1,6 @@
+__ci_last_regenerate|i:1668131909;username|s:14:"dispusipmadiun";nama_admin|s:32:"Dinas Perpustakaan dan Kearsipan";foto_admin|s:36:"488d7af2b3a9197d827ef2c350abb62d.png";is_login|b:1;pengunjungOnline|s:10:"2022-11-11";message|s:302:"<div class="alert alert-success alert-dismissible fade show" role="alert">
+        Data <strong>Kategori</strong> berhasil dihapus!
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+        </button>
+        </div>";__ci_vars|a:1:{s:7:"message";s:3:"old";}
